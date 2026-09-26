@@ -21,7 +21,7 @@
   "homepage": "https://github.com/microsoft/agent-governance-toolkit/tree/main/agent-governance-python/agent-mesh/services/api",
   "dependencies": {
     "express": "4.22.0",
-    "uuid": "14.0.0"
+    "uuid": "14.0.2"
   },
   "overrides": {
     "qs": "6.15.2"
